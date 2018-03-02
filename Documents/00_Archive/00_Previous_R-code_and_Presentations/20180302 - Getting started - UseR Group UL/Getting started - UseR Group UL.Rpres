@@ -61,9 +61,21 @@ Git and GitHub - Getting started
     + Coordinate work on those files among multiple people
     
 **What is GitHub?**
-* Web-based hosting service for version control using git
+* Web-based hosting service for version control using git.
 
 ![GitHub](images/GitHub_logo.png) 
+
+Git and GitHub - Some links
+========================================================
+* What is Git and GitHub?  
+    https://www.youtube.com/watch?v=uUuTYDg9XoI
+    https://www.youtube.com/watch?v=w3jLJU7DT5E
+
+* Git and GitHub tutorial for beginners   
+    https://product.hubspot.com/blog/git-and-GitHub-tutorial-for-beginners  
+
+* Learn Git in 20 Minutes  
+    https://www.youtube.com/watch?v=Y9XZQO1n_7c&t=148s
 
 Git and GitHub - Getting started
 ========================================================
@@ -75,7 +87,10 @@ Git and GitHub - Getting started
 
 3. Link R-Studio and GitHub  
     + Go to: https://www.r-bloggers.com/rstudio-and-GitHub/  
-        + Skip *'Create New project...'*, continue at *'Clone an existing GitHub project...'* using our GitHub repository URL: https://GitHub.com/MarioDvanTelgen/UseRGroupUL
+    <small>**Skip** *'Create New project...'*, **continue at** *'Clone an existing GitHub project...'* using our GitHub repository URL: https://GitHub.com/MarioDvanTelgen/UseRGroupUL</small>
+    
+> <small><small>Note for Mac: Git get installed (via DMG) on Mac OS X file system in:
+    *'/usr/local/git/'*, *'/usr/local/git/libexec/git-core'* or *'/usr/bin/git'* on OS X 10.9.5 and XCode 6.1.</small></small>
     
 Questionaire
 ========================================================
@@ -93,8 +108,6 @@ Questions?
 
 Other links
 ========================================================
-
-* Git and GitHub tutorial for beginners:   https://product.hubspot.com/blog/git-and-GitHub-tutorial-for-beginners
 
 * GitKraken  
 https://www.gitkraken.com/
