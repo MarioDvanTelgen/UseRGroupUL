@@ -4,21 +4,31 @@ author: Mario van Telgen
 date: March 2nd, 2018
 autosize: false
 
-Overview
+Welcome
+========================================================
+Welcome to the UseR Group!
+
+This presentation describes the aim of the group, meetings setup, and gives you instructions on how to access our GitHub repository in which you will find the presentations, example data and scripts that are used during the meetings. 
+
+<!-- A few days before the next meeting, the R script of that meeting will be uploaded to the repository. We strongly advise you to download it and try yourself prior to the meeting. This will leave us more time for questions and discussion during the meeting itself. Also, we ask you to bring a laptop so you can work with R during the meeting. In case you don't have a laptop, you can work together with other group members. -->
+
+<!-- The experience level of the group members differs: some are beginners, some have a little experience with R, and some of us are advanced. We try to make it accessible to all. Please install R (and R-Studio) before your first meeting and try a little bit with some of the available tutorials to get a basic idea about how to load packages, how to write a command, etc. -->
+
+Content
 ========================================================
 - Aim of group
-- Meeting setup
+- Meetings setup
 - Accessing group documents
 - Questionaire
 
-Aim of UseR Group
+Aim of group
 ========================================================
 Through **monthly workshops/presentations** given by group members, these meetings provide an environment in which members can:
 * **get started** with **or improve** their programming in R;
 * **get hands-on experience** in programming in R;
 * **help each other** solving problems they encounter while programming in R.
 
-Meeting setup*
+Meetings setup*
 ========================================================
 1.	Advanced R presentation (~30mins):  
     > * <small>E.g. using R as a GIS tool, performing spatial analyses or parallel computing using R.</small>
@@ -33,13 +43,15 @@ Meeting setup*
 
 Accessing group documents
 ========================================================
-All meeting documents (presentations and R-scripts) will be publicly available in a GitHub repository
+All meeting documents (presentations, data and scripts) will be publicly available in a GitHub repository
 
 https://GitHub.com/MarioDvanTelgen/UseRGroupUL
 
 * Prior to meetings in  
 _**'~/Documents/01_Upcoming_Presentations'**_  
 * After meetings (for later reference) in _**'~/Documents/00_Archive/Previous_R-code_and_Presentations'**_  
+
+> Note: you can download the full repository (ZIP-file) using the *'Clone or download'* button on GitHub, or simply by clicking this [[link]](https://github.com/MarioDvanTelgen/UseRGroupUL/archive/master.zip).
 
 Git and GitHub - Getting started
 ========================================================
@@ -63,7 +75,7 @@ Git and GitHub - Getting started
 
 3. Link R-Studio and GitHub  
     + Go to: https://www.r-bloggers.com/rstudio-and-GitHub/  
-        + Skip *'Create New project...'*, continue at *'Clone an existing GitHub project...' using our GitHub repository URL: https://GitHub.com/MarioDvanTelgen/UseRGroupUL
+        + Skip *'Create New project...'*, continue at *'Clone an existing GitHub project...'* using our GitHub repository URL: https://GitHub.com/MarioDvanTelgen/UseRGroupUL
     
 Questionaire
 ========================================================
@@ -71,9 +83,9 @@ Questionaire
     + E-mail list
     + Member's skills and interests
     + Member's possible contributions
-    + Planning
+    + Planning meetings
 
-> If not already done, please fill and send the questionaire [[link]](https://github.com/MarioDvanTelgen/UseRGroupUL/raw/master/Documents/UseR%20Group%20UL%20Questionaire%20empty.xlsx) to mario.van-telgen.1@ulaval.ca
+> If not yet done, please fill and send the questionaire [[link]](https://github.com/MarioDvanTelgen/UseRGroupUL/raw/master/Documents/UseR%20Group%20UL%20Questionaire%20empty.xlsx) to mario.van-telgen.1@ulaval.ca
 
 Thank you!
 ========================================================
